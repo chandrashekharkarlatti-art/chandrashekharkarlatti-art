@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Chandrashekhar</h1>
 <h3 align="center">IAM Engineer | SailPoint IdentityIQ | Identity & Access Management</h3>
 
 ---
@@ -69,9 +69,9 @@
 
 ## 📫 Connect With Me
 
-📧 Email: your.email@example.com  
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
-🌍 Location: [Your Country]
+📧 Email: chandrashekharkarlatti@gmail.com
+💼 LinkedIn:  
+🌍 Location: India
 
 ---
 
